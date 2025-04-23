@@ -1,1 +1,32 @@
-{}
+{
+  "AI Model Evaluation": {
+    "BERT-based NLP System": [
+      "pdf_data/web_agents/2504.08942v1.pdf",
+      "pdf_data/web_agents/2504.01495v1.pdf",
+      "pdf_data/lstm/2504.04038v1.pdf",
+      "pdf_data/lstm/2504.15223v1.pdf",
+      "pdf_data/bert/2504.15432v1.pdf",
+      "pdf_data/bert/2504.09398v1.pdf",
+      "pdf_data/lstm/2503.18297v2.pdf",
+      "pdf_data/lstm/2504.14122v1.pdf",
+      "pdf_data/web_agents/2504.07079v1.pdf",
+      "pdf_data/lstm/2503.22192v1.pdf",
+      "pdf_data/bert/2504.07984v1.pdf",
+      "pdf_data/bert/2504.08527v1.pdf",
+      "pdf_data/bert/2504.15972v1.pdf"
+    ],
+    "Web Agent Evaluation": [
+      "pdf_data/web_agents/2504.08942v1.pdf",
+      "pdf_data/web_agents/2504.01495v1.pdf",
+      "pdf_data/web_agents/2504.07079v1.pdf",
+      "pdf_data/web_agents/2504.11788v1.pdf",
+      "pdf_data/web_agents/2504.10127v2.pdf"
+    ]
+  },
+  "Technical Analysis Indicators": {
+    "Large Language Model Benchmarks": [
+      "pdf_data/web_agents/2504.08942v1.pdf",
+      "pdf_data/lstm/2503.22192v1.pdf"
+    ]
+  }
+}
